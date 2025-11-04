@@ -1,11 +1,11 @@
 # Hi, I'm Pragallapati Saketh 👋
 
-🎓 **Computer Science Undergraduate at Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**  
-💡 Passionate about solving real-world problems through data-driven and full-stack solutions.
+**Computer Science Undergraduate at Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**  
+Passionate about solving real-world problems through data-driven and full-stack solutions.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **[Factify – Fake News Detection Dashboard](https://github.com/sakethpragallapati/Fake-News-Detection-with-DistilBERT-and-Streamlit)**  
   NLP app using DistilBERT and Streamlit to classify fake news and summarize real articles.
@@ -32,13 +32,13 @@
 
 ---
 
-## 📘 Currently Learning
+## Currently Learning
 - Deep Learning and Natural Language Processing (NLP)  
 - Fine-tuning and Deployment of Pre-trained Models (Hugging Face, Transformers)  
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakethpragallapati)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragallapati-saketh-143384290)
@@ -46,5 +46,3 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saketh0705/)
 
 ---
-
-⭐ *"Always learning, always building."*
