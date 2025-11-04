@@ -21,14 +21,14 @@ Passionate about solving real-world problems through data-driven and full-stack 
 
 ## Featured Projects
 
+- **[AI Podcast Generator from Notes](https://github.com/sakethpragallapati/AI-Podcast-Generator-from-Notes)**  
+  Converts written notes or PDFs into engaging podcasts using text-to-speech and summarization pipelines. Built on Google Colab with an interactive UI.
+
+- **[AgriTrace – Decentralized Agritech Platform](https://github.com/sakethpragallapati/Heart-Attack-Predictor)**  
+  Blockchain-powered agricultural supply chain solution built on the Internet Computer (ICP). Features OTP-based authentication, role-based dashboards, and transparent produce tracking.
+
 - **[Factify – Fake News Detection Dashboard](https://github.com/sakethpragallapati/Fake-News-Detection-with-DistilBERT-and-Streamlit)**  
-  NLP app using DistilBERT and Streamlit to classify fake news and summarize real articles.
-
-- **[Heart Attack Predictor](https://github.com/sakethpragallapati/Heart-Attack-Predictor)**  
-  Full-stack ML web app predicting heart attack risk (98% accuracy). Deployed on Render.
-
-- **[Language Insights Generator](https://github.com/sakethpragallapati/Lang-Desc-Generator)**  
-  AI-based tool that generates linguistic insights using Gemini API, fully deployed on Render.
+  NLP-based web app leveraging DistilBERT and Streamlit to classify fake news and summarize verified articles automatically.
 
 ---
 
