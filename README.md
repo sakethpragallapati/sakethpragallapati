@@ -24,7 +24,7 @@ Passionate about solving real-world problems through data-driven and full-stack 
 - **[AI Podcast Generator from Notes](https://github.com/sakethpragallapati/AI-Podcast-Generator-from-Notes)**  
   Converts written notes or PDFs into engaging podcasts using text-to-speech and summarization pipelines. Built on Google Colab with an interactive UI.
 
-- **[AgriTrace – Decentralized Agritech Platform](https://github.com/sakethpragallapati/Heart-Attack-Predictor)**  
+- **[AgriTrace – Decentralized Agritech Platform](https://github.com/sakethpragallapati/AgriTrace)**  
   Blockchain-powered agricultural supply chain solution built on the Internet Computer (ICP). Features OTP-based authentication, role-based dashboards, and transparent produce tracking.
 
 - **[Factify – Fake News Detection Dashboard](https://github.com/sakethpragallapati/Fake-News-Detection-with-DistilBERT-and-Streamlit)**  
