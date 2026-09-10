@@ -23,7 +23,7 @@ Multi-agent AI copilots, knowledge-graph-enhanced retrieval systems, and product
 
 ## 🏆 Achievements
 
-### 🥉 Winner — Deloitte Hacksplosion 2026 (3rd Nationally)
+### 🥉 [3rd Place — Deloitte Hacksplosion 2026](https://deloittehacksplosion.hirepro.in/)
 Secured 3rd place overall out of **21,900+ registrations** across India. Outstanding technical performance during the competition led directly to a **Deloitte Summer Technology Internship** offer. During the internship, I architected and developed enterprise-scale solutions, most notably building a full-stack incentive calculator for the UP Electronics Manufacturing Policy using Next.js and FastAPI.
 
 ---
