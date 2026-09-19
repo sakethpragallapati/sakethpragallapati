@@ -46,5 +46,3 @@ A 3-tier microservices app (React → Node.js API → Flask ML service) that pre
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragallapati-saketh-143384290)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragallapati.saketh@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saketh0705)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakethpragallapati)](https://github.com/anuraghazra/github-readme-stats)
